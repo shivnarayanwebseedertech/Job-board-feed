@@ -4,7 +4,7 @@ import { useDispatch } from "react-redux";
 
 import BookmarkPage from "./components/BookmarkPage";
 import { applyFilters } from "./store/jobsSlice";
-import JobList from "./components/joblist";
+import JobList from "./components/JobList";
 import Header from "./components/Header";
 
 export default function App() {
